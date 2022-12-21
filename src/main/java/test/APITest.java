@@ -26,6 +26,11 @@ public void getCall() {
 		 .then()
          .statusCode(200);
 	}
+
+
+
+//newly added line for git commit checking
+
 @Test
 public void getCallBodyValidation() {
 	
